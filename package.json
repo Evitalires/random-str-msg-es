@@ -1,0 +1,20 @@
+{
+  "name": "random-str-msg-es",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jair Ramirez <evitalires@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evitalires/random-str-msg-es"
+  },
+  "homepage": "https://github.com/Evitalires/random-str-msg-es",
+  "bin": {
+    "random-str-msg-es": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
