@@ -1,4 +1,4 @@
-const message = [
+const messages = [
   "Aquí es donde todo comienza...",
   "Compromiso comprometido",
   "El control de versiones es terrible",
@@ -28,6 +28,6 @@ const funnyCommit = () => {
   console.log(`\x1b[34m${message}\x1b[89m`);
 };
 
-export default {
+module.exports = {
   funnyCommit,
 };
